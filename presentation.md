@@ -3,7 +3,7 @@ layout: reveal
 title: Reveal.js Presentation
 ---
 
-## Internet Technologies  
+## Internet Technologies
 ### Assignment 2  
 Semih YILMAZ
 
@@ -21,6 +21,10 @@ This is a horizontal slide.
 
 ---
 
+## Vertical Slides (Parent)
+
+---
+
 ### Vertical Slide 1
 This is a vertical slide under the horizontal one.
 
@@ -31,12 +35,10 @@ Vertical navigation is supported in Reveal.js.
 
 ---
 
-## Images in Reveal.js
+## Image Slide
 ![Example Image](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 ---
 
 ## Conclusion
-- Reveal.js is flexible
-- Easy to use with GitHub Pages
-- Supports modern presentations
+Reveal.js allows creating modern web-based presentations.
